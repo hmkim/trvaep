@@ -8,4 +8,4 @@ scipy
 seaborn
 matplotlib
 adjustText
-pandas
+pandas>=2
